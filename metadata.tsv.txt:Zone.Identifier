@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.ebi.ac.uk/ena/browser/view/PRJEB57580
+HostUrl=https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJEB57580&result=read_run&fields=study_accession,sample_accession,experiment_accession,run_accession,scientific_name,fastq_ftp,sample_alias&format=tsv&download=true&limit=0
